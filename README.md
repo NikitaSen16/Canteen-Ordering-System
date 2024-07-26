@@ -1,6 +1,6 @@
 # Canteen-Ordering-System
 
-## Canteen Ordering Sytem for Unilever
+## Canteen Ordering System for Unilever
 
 
-Development of UML, ER , Activity diadram, goals achieved- reduced operation cost, food wastage, increased work time. 
+Development of UML, ER , Activity diagram, goals achieved- reduced operation cost, food wastage, increased work time. 
